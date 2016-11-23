@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Hi there!
+My name is Ben Butler and I am loving life with my beautiful wife and two young sons. We have an amazing life here in Boise, ID and I could not immagine a more exciting and happy time. I started this page as a way to learn a bit about the git version control system and to get a blog and website put together. I'm sure you'll see and hear all the trials and tribulations of both me learning git and life here in Idaho.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[butl4701@gmail.com](mailto:butl4701@gmail.com)
